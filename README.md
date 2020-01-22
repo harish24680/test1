@@ -16,8 +16,8 @@ I will learn to create repos more effectively to pulish it online.
 ## List
 
 -one Current
--Two Past
--Three Future
+-two Past
+-three Future
 
 1. Current
 1. Past
