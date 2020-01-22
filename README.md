@@ -15,9 +15,9 @@ I will learn to create repos more effectively to pulish it online.
 
 ## List
 
-*one Current
-*two Past
-*three Future
+* Current
+* Past
+* Future
 
 1. Current
 1. Past
