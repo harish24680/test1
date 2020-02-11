@@ -1,6 +1,6 @@
 # Harish
 This is me
-## Current
+## Current ITEMS
 
 I am trying to create a new repo and list down few basic things.
 
@@ -13,7 +13,7 @@ I installed git with choclatey.
 
 I will learn to create repos more effectively to pulish it online.
 
-## List
+## LIST ITEMS
 
 * Current
 * Past
